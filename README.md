@@ -15,4 +15,4 @@ docker tag ejercicio4:v1 lauralujan/ejercicio4:v1
 docker push lauralujan/ejercicio4:v1
 
 
-https://hub.docker.com/repository/docker/lauralujan/ejercicio4
+https://hub.docker.com/r/lauralujan/ejercicio4
